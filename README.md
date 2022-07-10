@@ -22,6 +22,7 @@
     <img align="center" alt="Davs-html" height="30" width="40" src="https://img.shields.io/badge/--E95420?logo=ubuntu&logoColor=fff"> 
     <img align="center" alt="Davs-html" height="30" width="70" src="https://img.shields.io/badge/Vue.js-35495E?style=for--badge&logo=vue.js&logoColor=4FC08D">
     
+    
    
 </div>
   
@@ -33,6 +34,7 @@
  
   <a href = "https://mail.google.com/mail/u/1/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davi-sousa-santos-14ab0521b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5511940181661"> <img src="https://img.shields.io/badge/--25D366?logo=whatsapp&logoColor=fff" target="_blank"></a>
 
 </div>  
   
