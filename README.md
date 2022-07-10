@@ -1,4 +1,4 @@
-## Olá eu sou o Davi 🤙🏿
+## Olá eu sou o Davi ☕ 🤙🏿  
 
 - Sou estudante de gestão de tecnologia da informação
 
