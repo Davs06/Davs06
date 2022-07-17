@@ -20,7 +20,7 @@
     <img align="center" alt="vs-code height="40" width="40" src="https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff">
     <img align="center" alt="Davs-html" height="30" width="30" src="https://img.shields.io/badge/--FCC624?logo=linux&logoColor=000">
     <img align="center" alt="Davs-html" height="30" width="40" src="https://img.shields.io/badge/--E95420?logo=ubuntu&logoColor=fff"> 
-    <img align="center" alt="Davs-html" height="30" width="70" src="https://img.shields.io/badge/Vue.js-35495E?style=for--badge&logo=vue.js&logoColor=4FC08D">
+    <!-- <img align="center" alt="Davs-vue" height="30" width="70" src="https://img.shields.io/badge/Vue.js-35495E?style=for--badge&logo=vue.js&logoColor=4FC08D"> -->
     
     
    
