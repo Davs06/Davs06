@@ -34,7 +34,7 @@
  
   <a href = "https://mail.google.com/mail/u/1/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davi-sousa-santos-14ab0521b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5511940181661"> <img src="https://img.shields.io/badge/--25D366?logo=whatsapp&logoColor=fff" target="_blank"></a>
+  <a href="[https://api.whatsapp.com/send?phone=5511940181661](https://wa.me/5511939364547)"> <img src="https://img.shields.io/badge/--25D366?logo=whatsapp&logoColor=fff" target="_blank"></a>
 
 </div>  
   
