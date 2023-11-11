@@ -14,13 +14,14 @@
   <div style="display: inline_block"><br>
   
  <!-- <img align="center" alt="Davs-java" height="30" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-badge&logo=java&logoColor=white"> -->
-    <img align="center" alt="Davs-js" height="30" width="30" src="https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000">
-    <img align="center" alt="Davs-html" height="30" width="30" src="https://img.shields.io/badge/--E34F26?logo=html5&logoColor=fff">
-    <img align="center" alt="Davs-css" height="30" width="30" src="https://img.shields.io/badge/--1572B6?logo=css3&logoColor=fff">
-    <img align="center" alt="vs-code height="40" width="40" src="https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff">
-    <img align="center" alt="Davs-html" height="30" width="30" src="https://img.shields.io/badge/--FCC624?logo=linux&logoColor=000">
-    <img align="center" alt="Davs-html" height="30" width="40" src="https://img.shields.io/badge/--E95420?logo=ubuntu&logoColor=fff"> 
-    <img align="center" alt="Davs-vue" height="30" width="70" src="https://img.shields.io/badge/Vue.js-35495E?style=for--badge&logo=vue.js&logoColor=4FC08D"> 
+  <img align="center" alt="Davs-js" height="50" width="50" src="https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000"> 
+  <img align="center" alt="Davs-html" height="50" width="50" src="https://img.shields.io/badge/--E34F26?logo=html5&logoColor=fff">
+  <img align="center" alt="Davs-css" height="50" width="50" src="https://img.shields.io/badge/--1572B6?logo=css3&logoColor=fff">
+  <!--<img align="center" alt="vs-code height="40" width="40" src="https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff"> -->
+  <img align="center" alt="Davs-html" height="50" width="50" src="https://img.shields.io/badge/--FCC624?logo=linux&logoColor=000">
+  <img align="center" alt="Davs-html" height="50" width="50" src="https://img.shields.io/badge/--E95420?logo=ubuntu&logoColor=fff"> 
+  <img align="center" alt="Davs-vue" height="50" width="50" src="https://img.shields.io/badge/-333?style=for--badge&logo=vue.js&logoColor=4FC08D"> 
+  <img align="center" alt="Davs-vue" height="50" width="50" src="https://img.shields.io/badge/-333?style=for--badge&logo=php&logoColor=AEB2D5"> 
     
     
    
