@@ -41,6 +41,6 @@
   
 <div>
 
- <!-- ![Snake animation](https://github.com/Davs06/Davs06/blob/output/github-contribution-grid-snake.svg) -->
+ ![Snake animation](https://github.com/Davs06/Davs06/blob/output/github-contribution-grid-snake.svg) 
   
 </div>
