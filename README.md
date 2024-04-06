@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/davi-sousa-santos-14ab0521b/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davs06&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davs06&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davs06&layout=compact&langs_count=7&theme=darcula"/>
 </div>
   
   #### Tecnologias que eu utilizo
