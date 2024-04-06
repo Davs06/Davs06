@@ -8,12 +8,15 @@
   
 <div align="center">
   <a href="https://www.linkedin.com/in/davi-sousa-santos-14ab0521b/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davs06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davs06&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davs06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davs06&layout=compact&langs_count=7&theme=dracula"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Davs06&theme=dracula&hide_border=true" alt="Github Stats"/>
+  </a> 
+</div> <br>
   
-  #### Tecnologias que eu utilizo
-  
+ ## Minhas Skills
+
+**Aplicações e dados**  
   
 <div style="display: inline_block"><br>
   
@@ -22,16 +25,28 @@
   <img align="center" alt="Davs-html" height="30" width="40" src="https://img.shields.io/badge/--E34F26?logo=html5&logoColor=fff">
   <img align="center" alt="Davs-css" height="30" width="40" src="https://img.shields.io/badge/--1572B6?logo=css3&logoColor=fff">
   <!--<img align="center" alt="vs-code height="40" width="40" src="https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff"> -->
-  <img align="center" alt="Davs-html" height="30" width="40" src="https://img.shields.io/badge/--FCC624?logo=linux&logoColor=000">
-  <img align="center" alt="Davs-html" height="30" width="40" src="https://img.shields.io/badge/--E95420?logo=ubuntu&logoColor=fff"> 
+  <!--<img align="center" alt="Davs-html" height="30" width="40" src="https://img.shields.io/badge/--FCC624?logo=linux&logoColor=000">
+  <img align="center" alt="Davs-html" height="30" width="40" src="https://img.shields.io/badge/--E95420?logo=ubuntu&logoColor=fff"> -->
   <img align="center" alt="Davs-vue" height="30" width="70" src="https://img.shields.io/badge/Vue-333?style=for--badge&logo=vue.js&logoColor=4FC08D"> 
   <img align="center" alt="Davs-vue" height="30" width="90" src="https://img.shields.io/badge/Laravel-f55?style=for--badge&logo=laravel&logoColor=FFFFFF">
   <img align="center" alt="Davs-vue" height="30" width="90" src="https://img.shields.io/badge/React-333?style=for--badge&logo=react&logoColor=39C1D7">
-    
-    
-   
-</div>
-  
+     
+</div> <br>
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+**Utilidades**
+
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)  
     
      
   ### Contatos
@@ -44,8 +59,13 @@
 
 </div>  
   
-<div>
-
- ![Snake animation](https://github.com/Davs06/Davs06/blob/output/github-contribution-grid-snake.svg) 
-  
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/Davs06/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
