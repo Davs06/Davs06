@@ -1,16 +1,16 @@
 ## Olá eu sou o Davi ☕ 🤙🏿  
 
 - Sou estudante de gestão de tecnologia da informação
-- Um dos fundadores do super app <strong><a href="https://portal.brasuca.net.br" target="_blank" >  Brasuca </a></strong>
-- Dev Full Stack on <a href="https://somos.tec.br" target="_blank" > Somos tec BR [</>]</a> 
-- Mentor PHP/Laravel on <a href="https://desfavelados.com.br" target="_blank" > Desfavelados </a>
+- Um dos fundadores do super app Brasuca 
+- Dev Full Stack on Somos tec BR [</>] 
+- Mentor PHP/Laravel on Desfavelados 
 
   
 <div align="center">
   <a href="https://www.linkedin.com/in/davi-sousa-santos-14ab0521b/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davs06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davs06&layout=compact&langs_count=7&theme=dracula"/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Davs06&theme=dracula&hide_border=true" alt="Github Stats"/>
+    <!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Davs06&theme=dracula&hide_border=true" alt="Github Stats"/>-->
   </a> 
 </div> <br>
   
@@ -47,9 +47,29 @@
 **Utilidades**
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)  
-    
-     
-  ### Contatos
+
+
+## Experiencias
+
+
+[<img align="left" height="94px" width="300px" alt="Warpnet" src="https://somos.tec.br/wp-content/uploads/2023/08/Ativo-1-200x35.png"/>](https://somos.tec.br)
+
+**Full Stack Developer (Jr)** \
+[**Somos Tec Br </>**](https://somos.tec.br) • Full-time \
+Linguagens & Tecnologias: `Laravel`, `React`, `Vue` \
+Projetos em destaque: [Super App Brasuca](https://portal.brasuca.net.br/), [Me Reserve]()
+<br/>
+
+[<img align="left" height="94px" width="300px" alt="Warpnet" src="https://desfavelados.com.br/wp-content/uploads/2024/03/desfavelados.png"/>](https://desfavelados.com.br)
+
+**Mentor** \
+[**Desfavelados**](https://desfavelados.com.br) • Full-time \
+Linguagens & Tecnologias: `Laravel`, `PHP` \
+Projetos em destaque: <!--[Super App Brasuca](https://portal.brasuca.net.br/), [Me Reserve]()-->
+<br/>
+
+
+  ## Contatos
  
 <div> 
  
@@ -57,8 +77,22 @@
   <a href="https://www.linkedin.com/in/davi-sousa-santos-14ab0521b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <!-- <a href="https://wa.me/5511939364547"> <img src="https://img.shields.io/badge/--25D366?logo=whatsapp&logoColor=fff" target="_blank"></a> -->
 
-</div>  
-  
+</div>  <br>
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=Davs06&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
