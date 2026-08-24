@@ -1,7 +1,6 @@
 ## Olá eu sou o Davi ☕ 🤙🏿  
 
-- Sou estudante de gestão de tecnologia da informação
-- Um dos fundadores do super app Brasuca 
+- Sou estudante de gestão de tecnologia da informação 
 - Dev Full Stack on Somos tec BR [</>] 
 - Mentor PHP/Laravel on Desfavelados 
 
